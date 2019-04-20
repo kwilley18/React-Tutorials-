@@ -1,0 +1,17 @@
+body{
+	background-color: lightgray; 
+}
+.todo-item{
+	display: flex; 
+	justify-content: flex-start;
+	align-items: center; 
+	color: azure; 
+	font-family: Roboto, sans-serif; 
+}
+.todo-list{
+	background-color: floralwhite; 
+	margin: auto; 
+	width: 50%; 
+	align-items: center; 
+	font-family: Roboto, sans-serif; 
+}
